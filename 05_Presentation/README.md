@@ -1,1 +1,0 @@
-FinInsight project presentation.
