@@ -1,0 +1,22 @@
+"expense_category","actual_expenses_m","budget_m","variance_m","budget_utilization_pct"
+"Payroll",411.99,483.30,-71.32,85.24
+"Outsourced Resources",176.67,222.85,-46.18,79.28
+"Other People",39.23,35.63,3.60,110.09
+"Contingent Staff / Intern",26.93,29.16,-2.23,92.34
+"Product Development",5.85,4.32,1.52,135.18
+"Public Relations",3.62,4.65,-1.03,77.78
+"Acquisition Amortization",2.68,0.00,2.68,NULL
+"Events",0.81,1.52,-0.71,52.96
+"Relationship Marketing",0.45,0.03,0.42,1438.71
+"Partner Marketing",0.44,2.27,-1.83,19.28
+"Localization",0.43,0.06,0.38,786.81
+"Advertising",0.25,0.08,0.18,330.28
+"Research & Analytics",0.17,0.25,-0.08,66.63
+"Data Center Hosting",0.14,0.08,0.06,182.76
+"Billing Costs",0.00,0.00,0.00,NULL
+"Product Costs",0.00,0.00,0.00,NULL
+"Royalties",0.00,0.00,0.00,NULL
+"Bad Debt Expense",0.00,0.00,0.00,NULL
+"Infrastructure",-0.72,8.90,-9.62,-8.05
+"Labs",-9.56,-21.05,11.48,45.44
+"Other Expenses",-32.64,-27.13,-5.51,120.33
